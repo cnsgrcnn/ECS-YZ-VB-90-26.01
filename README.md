@@ -7,4 +7,6 @@ Ders - 1 Python Giriş / Ders 2- Python giriş -2 / Ders 3- Veri Bilimi + Ödevl
 
 Ders 4 - Kaggle Titanic Competition: https://www.kaggle.com/code/cansugrcan/titanic-yar-mas
 
+Ders - 5 Araç Fiyat Tahmin: https://colab.research.google.com/drive/1O1GINOnFM7NWhqXwdvF7grOimGRIemMh#scrollTo=yZkt_9oQp15A
+
 
