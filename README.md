@@ -10,4 +10,6 @@ Ders 4 - Kaggle Titanic Competition: https://www.kaggle.com/code/cansugrcan/tita
 Ders - 5 Araç Fiyat Tahmin: https://colab.research.google.com/drive/1O1GINOnFM7NWhqXwdvF7grOimGRIemMh#scrollTo=yZkt_9oQp15A
 https://huggingface.co/spaces/cnsgrcnn/predict_car_prices
 
+Ders - 6 Slider: https://colab.research.google.com/drive/1GTvrRtxsyChB-Q5yhmyTfVcJL0M9JJA8?usp=sharing
+
 
