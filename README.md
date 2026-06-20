@@ -13,7 +13,10 @@ https://huggingface.co/spaces/cnsgrcnn/predict_car_prices
 Ders - 6 Slider: https://colab.research.google.com/drive/1GTvrRtxsyChB-Q5yhmyTfVcJL0M9JJA8?usp=sharing
 
 Ders - 7 Toplu Görsel İndirme:
-https://colab.research.google.com/drive/1LctBRtNXaChzqR1HgHXn1VGpjeCCSD6q#scrollTo=0g1Vdq4iMd3Q
+https://colab.research.google.com/drive/1LctBRtNXaChzqR1HgHXn1VGpjeCCSD6q#scrollTo=0g1Vdq4iMd3Q,
+
+Ders - 8 Online Form - Gradio ile Veri Arayüzü Oluşturma
+https://colab.research.google.com/drive/1RNlypfB8jPCXXuPcS55cFfEdMvmDdFa9#scrollTo=5NGFyVIIWeQg
 
 
 
