@@ -18,6 +18,9 @@ https://colab.research.google.com/drive/1LctBRtNXaChzqR1HgHXn1VGpjeCCSD6q#scroll
 Ders - 8 Online Form - Gradio ile Veri Arayüzü Oluşturma
 https://colab.research.google.com/drive/1RNlypfB8jPCXXuPcS55cFfEdMvmDdFa9#scrollTo=5NGFyVIIWeQg
 
+Ders - 9 Pandas ile Veri Çekme
+https://colab.research.google.com/drive/1BCFgZxg2WagaEPE2VnYsXhe_bXimdKbK#scrollTo=lYbkA38mohbo
+
 
 
 
