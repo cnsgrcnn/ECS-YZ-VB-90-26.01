@@ -1,30 +1,37 @@
 # ECS-YZ-VB-90-26.01
 2026 - 1 Yapay Zeka ve Veri Bilimi
 
-Ders - 1 Python Giriş / Ders 2- Python giriş -2 / Ders 3- Veri Bilimi + Ödevler:  https://colab.research.google.com/drive/1JW0E9lulAyLHwahzN4gFIXPmYk9HCaVO?usp=sharing
+Ders - 1 Python Giriş 
+Ders 2 - Python giriş 
+Ders 3- Veri Bilimi + Ödevler:
+https://colab.research.google.com/drive/1JW0E9lulAyLHwahzN4gFIXPmYk9HCaVO?usp=sharing
 
-Ödev Restaurant Tips (Bahşiş): https://colab.research.google.com/drive/1bISV6-L0ORKD1zA1uEAWtNhVIU5Z3xja#scrollTo=YkSnZWq3z5kw
+Ödev Restaurant Tips (Bahşiş):
+https://colab.research.google.com/drive/1bISV6-L0ORKD1zA1uEAWtNhVIU5Z3xja#scrollTo=YkSnZWq3z5kw
 
-Ders 4 - Kaggle Titanic Competition: https://www.kaggle.com/code/cansugrcan/titanic-yar-mas
+Ders 4 - Kaggle Titanic Competition: 
+https://www.kaggle.com/code/cansugrcan/titanic-yar-mas
 
-Ders - 5 Araç Fiyat Tahmin: https://colab.research.google.com/drive/1O1GINOnFM7NWhqXwdvF7grOimGRIemMh#scrollTo=yZkt_9oQp15A
+Ders - 5 Araç Fiyat Tahmin: 
+https://colab.research.google.com/drive/1O1GINOnFM7NWhqXwdvF7grOimGRIemMh#scrollTo=yZkt_9oQp15A
 https://huggingface.co/spaces/cnsgrcnn/predict_car_prices
 
-Ders - 6 Slider: https://colab.research.google.com/drive/1GTvrRtxsyChB-Q5yhmyTfVcJL0M9JJA8?usp=sharing
+Ders - 6 Slider: 
+https://colab.research.google.com/drive/1GTvrRtxsyChB-Q5yhmyTfVcJL0M9JJA8?usp=sharing
 
 Ders - 7 Toplu Görsel İndirme:
 https://colab.research.google.com/drive/1LctBRtNXaChzqR1HgHXn1VGpjeCCSD6q#scrollTo=0g1Vdq4iMd3Q,
 
-Ders - 8 Online Form - Gradio ile Veri Arayüzü Oluşturma
+Ders - 8 Online Form - Gradio ile Veri Arayüzü Oluşturma:
 https://colab.research.google.com/drive/1RNlypfB8jPCXXuPcS55cFfEdMvmDdFa9#scrollTo=5NGFyVIIWeQg
 
-Ders - 9 Pandas ile Veri Çekme
+Ders - 9 Pandas ile Veri Çekme:
 https://colab.research.google.com/drive/1BCFgZxg2WagaEPE2VnYsXhe_bXimdKbK#scrollTo=lYbkA38mohbo
 
-Ders - 10 COVID 10 Yarışan Grafikler
+Ders - 10 COVID 10 Yarışan Grafikler:
 https://colab.research.google.com/drive/1OpIboLbcHZeKfYujGwL06QryysoVeXL8#scrollTo=ZWSENNz_7Iym
 
-Ders - 11 Nüfus Yarışan Grafikler
+Ders - 11 Nüfus Yarışan Grafikler:
 https://colab.research.google.com/drive/1FTiNex4YL6527-tS-kKCOOtoXB_Xanbw#scrollTo=m9e5PiTN_qPO&uniqifier=1
 
 
