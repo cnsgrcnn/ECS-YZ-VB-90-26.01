@@ -21,6 +21,12 @@ https://colab.research.google.com/drive/1RNlypfB8jPCXXuPcS55cFfEdMvmDdFa9#scroll
 Ders - 9 Pandas ile Veri Çekme
 https://colab.research.google.com/drive/1BCFgZxg2WagaEPE2VnYsXhe_bXimdKbK#scrollTo=lYbkA38mohbo
 
+Ders - 10 COVID 10 Yarışan Grafikler
+https://colab.research.google.com/drive/1OpIboLbcHZeKfYujGwL06QryysoVeXL8#scrollTo=ZWSENNz_7Iym
+
+Ders - 11 Nüfus Yarışan Grafikler
+https://colab.research.google.com/drive/1FTiNex4YL6527-tS-kKCOOtoXB_Xanbw#scrollTo=m9e5PiTN_qPO&uniqifier=1
+
 
 
 
