@@ -34,6 +34,9 @@ https://colab.research.google.com/drive/1OpIboLbcHZeKfYujGwL06QryysoVeXL8#scroll
 Ders - 11 Nüfus Yarışan Grafikler:
 https://colab.research.google.com/drive/1FTiNex4YL6527-tS-kKCOOtoXB_Xanbw#scrollTo=m9e5PiTN_qPO&uniqifier=1
 
+Ders - 12 Google Trend Analizi:
+https://colab.research.google.com/drive/181kGnpLqMoF6_QKy82UUr4Gh8cwVsvZU#scrollTo=de319b54
+
 
 
 
